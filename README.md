@@ -1,4 +1,3 @@
-
 # 🌎 React Clean Countries Explorer
 
 Aplicación web que muestra un listado de países usando React 19, TailwindCSS 4 y GraphQL.  
@@ -75,7 +74,7 @@ src/
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu_usuario/react-clean-countries.git
+git clone https://github.com/cliffdaniel/react-clean-countries.git
 
 # Entrar al proyecto
 cd react-clean-countries
@@ -105,6 +104,7 @@ El proyecto tiene test unitarios para:
 - CountryDetailPage
 
 Frameworks usados:
+
 - Vitest
 - @testing-library/react
 - @testing-library/jest-dom
